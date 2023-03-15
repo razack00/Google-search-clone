@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Google-search-clone",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Google-search-clone",
+		"liveServer.settings.port": 5501
+	}
+}
