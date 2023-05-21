@@ -132,7 +132,7 @@ hr {
     display: flex;
     justify-content: space-between;
     padding: 15px;
-    flex-wrap: wrap;
+    
 }
 
 .footer-nav {
